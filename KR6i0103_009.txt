@@ -1,19 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:09:50.010528
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:37
 #+TITLE: 維摩經評註
 #+PROPERTY: CBETA_ID X19n0347
 #+PROPERTY: ID KR6i0103
 #+PROPERTY: SOURCE 卍 Xuzangjing Vol. 19, No. 347
 #+PROPERTY: VOL 19
 #+PROPERTY: BASEEDITION X
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0103_X_009-0567b> 
 #+PROPERTY: JUAN 9
 ¶
+維摩詰所說經卷九¶
 
- 維摩詰所說經卷九¶
-
-入不二法門品¶
+* 入不二法門品¶
 
 爾時維摩詰。謂眾菩薩言。諸仁者。云何菩薩。入¶
 不二法門。各隨所樂說之。¶
@@ -137,13 +136,13 @@
 況非實。所以者何。非肉眼所見。慧眼乃能見。而¶
 此慧眼。無見無不見。是為入不二法門。¶
 
-如是諸菩薩。各各說已。問文殊師利。何等是菩¶
+如是諸菩薩。各各說巳。問文殊師利。何等是菩¶
 薩入不二法門。¶
 
 文殊師利曰。如我意者。於一切法。無言無說。無¶
 示無識。離諸問答。是為入不二法門。¶
 
-於是文殊師利問維摩詰。我等各自說已。仁者¶
+於是文殊師利問維摩詰。我等各自說巳。仁者¶
 當說。何等是菩薩入不二法門。
 <pb:KR6i0103_X_009-0569a>¶
 
