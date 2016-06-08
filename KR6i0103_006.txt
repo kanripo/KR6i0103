@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:09:49.953338
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:37
 #+TITLE: 維摩經評註
 #+PROPERTY: CBETA_ID X19n0347
 #+PROPERTY: ID KR6i0103
@@ -13,7 +13,7 @@
 
  維摩詰所說經卷六¶
 
-不思議品¶
+* 不思議品¶
 
 爾時舍利弗。見此室中。無有床座。作是念。斯諸
 <pb:KR6i0103_X_006-0561c>¶
